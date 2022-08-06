@@ -1,0 +1,9 @@
+Dalam tugas akhir ini terdapat beberapa modul alat, yaitu :
+- Rangka kamera alumunium
+- Dua modul kamera ps3 eye dengan packaging waterproof
+- dua lighting ulanzi cute 
+- satu lighting waterproof 300 lumen
+- Waveshare LCD touchscreen model B ukuran 800x480 piksel
+- Raspberry pi 4B 4GB
+- Stepdown 12V to 5V
+- Packaging 3D printed
